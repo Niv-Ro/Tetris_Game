@@ -20,7 +20,6 @@ Architected complete Tetris game engine with **8 tetromino types** and custom me
 - Object-oriented design with clean separation of concerns
 - Async programming for responsive gameplay
 - Event-driven input handling
-- WPF for user interface
 - Efficient collision detection algorithms
 
 #### Game Engine Components
