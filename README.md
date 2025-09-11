@@ -29,3 +29,5 @@ Architected complete Tetris game engine with **8 tetromino types** and custom me
 - Grid system for piece placement
 - Score calculation and tracking
 - Game over detection
+
+https://github.com/user-attachments/assets/6376f9db-2905-4e19-abc1-ba5075eb7002
